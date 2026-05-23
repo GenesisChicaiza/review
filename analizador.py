@@ -8,3 +8,4 @@ class AnalizadorTexto:
     def contar_palabras(self) -> int:
         return len(self._texto.split())
 
+
