@@ -9,3 +9,4 @@ class AnalizadorTexto:
         return len(self._texto.split())
 
 
+
